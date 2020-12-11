@@ -1,1 +1,1 @@
-Instageam lead generator, email scraper
+Instagram lead generator, email scraper.
